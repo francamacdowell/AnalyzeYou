@@ -32,3 +32,7 @@ After ``Getting Started`` session, with the virtual enviroment activated, run:
 ```
 python youtube_api/main_app/resources/model.py
 ```
+## Output metrics model example:
+![Image description](output_example.png)
+
+In the example image above we can see Accuracy, Precision, Recall and F1 metrics of the model.
